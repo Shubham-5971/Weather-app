@@ -1,0 +1,20 @@
+.search-bar{
+    /* align-items: center; */
+    text-align: center;
+    padding: 25px 50px 75px 100px;
+}
+#search-attributes{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-image: url('./images/weather.jpg');
+
+    background-size: cover; /* Optional: Cover the entire background */
+    background-position: center; /* Optional: Center the image */
+    background-repeat: no-repeat; /* Optional: Prevent image from repeating */
+}
